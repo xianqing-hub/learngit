@@ -4,3 +4,5 @@ Git is free software distributed under the GPL.
 add test
 add new test
 增加中文测试
+
+Git tracks changes.
