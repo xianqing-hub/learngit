@@ -5,4 +5,4 @@ add test
 add new test
 增加中文测试
 
-Git tracks changes.
+Git tracks changes of files.
