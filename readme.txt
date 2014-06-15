@@ -6,4 +6,3 @@ add new test
 增加中文测试
 
 Git tracks changes of files.
-My stupid boss still prefers SVN.
